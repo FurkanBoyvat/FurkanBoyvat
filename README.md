@@ -56,9 +56,9 @@
 ---
 
 ### 🧠 About Me
-💡 Yazılım ve otomasyona odaklı bir geliştirici.  
-🔭 Telegram botları, web projeleri ve yapay zeka sistemleri geliştiriyorum.  
-🌱 React, PHP ve Python alanlarında sürekli kendimi geliştiriyorum.  
+💡 Yazılım ve otomasyona odaklı bir geliştiriciyim.
+🔭 Telegram botları, web ve mobil uygulamalar geliştiriyorum.
+🌱 React, PHP ve Python alanlarında kendimi sürekli geliştiriyorum.
 
 ---
 
