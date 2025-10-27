@@ -49,23 +49,10 @@
 ---
 
 ### 📊 GitHub Stats
-<div align="center">
-
-<a href="https://github.com/FurkanBoyvat">
-  <img src="https://github-readme-stats.vercel.app/api?username=FurkanBoyvat&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF&icon_color=00BFFF&border_radius=15&line_height=27" height="165px"/>
-</a>
-<a href="https://github.com/FurkanBoyvat">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FurkanBoyvat&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF&border_radius=15" height="165px"/>
-</a>
-
-<br><br>
-
-<a href="https://github.com/FurkanBoyvat">
-  <img src="https://streak-stats.demolab.com?user=FurkanBoyvat&theme=tokyonight&hide_border=true&background=0D1117&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF&border_radius=15" height="165px"/>
-</a>
-
-</div>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FurkanBoyvat&hide=prs,issues,contribs&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF&icon_color=00BFFF&border_radius=12&rank_icon=github" height="130" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FurkanBoyvat&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF&border_radius=12" height="130" />
+</p>
 ---
 
 ### 🧠 About Me
