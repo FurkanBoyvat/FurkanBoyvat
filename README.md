@@ -64,7 +64,7 @@
 
 ### 🧠 About Me
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=3000&pause=500&color=00BFFF&center=true&vCenter=true&width=500&lines=Yazılım+ve+otomasyona+odaklı+bir+geliştiriciyim.;Telegram+botları,+web+ve+mobil+uygulamalar+geliştiriyorum.;React,+Flutter,+PHP+ve+Python+ile+sürekli+kendimi+geliştiriyorum." />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=3000&pause=500&color=00BFFF&center=true&vCenter=true&width=500&lines=Yaz%C4%B1l%C4%B1m+ve+otomasyona+odakl%C4%B1+bir+geli%C5%9Ftiriciyim.;Telegram+botlari,+web+ve+mobil+uygulamalar+gelistiriyorum.;React,+Flutter,+PHP+ve+Python+ile+surekli+kendimi+gelistiriyorum." />
 </h3>
 
 
