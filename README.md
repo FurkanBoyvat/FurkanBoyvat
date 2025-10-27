@@ -1,39 +1,51 @@
-<!-- Minimal & Profesyonel GitHub Profili - Furkan Boyvat -->
+<!-- Header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=3000&pause=500&color=00BFFF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Furkan+Boyvat.;Mechatronics+Engineer+%26+Developer;Full+Stack+%7C+AI+%7C+Automation+Enthusiast" alt="Typing SVG" />
+</h1>
 
 <div align="center">
-
-# Furkan Boyvat
-
-**Yazılım Geliştirici**
-
-[![Profile Views](https://komarev.com/ghpvc/?username=FurkanBoyvat&color=0E75B6&style=flat-square)](https://github.com/FurkanBoyvat)
+  
+![Profile Views](https://komarev.com/ghpvc/?username=FurkanBoyvat&color=0E75B6&style=flat-square)&nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/FurkanBoyvat?label=Follow&style=social)](https://github.com/FurkanBoyvat)
 
 ---
 
-### 💻 Teknolojiler
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+### 💻 Languages & Tools I Use
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,java,html,css,cpp,python,php,figma,react,wordpress" />
+</p>
 
 ---
 
-### 📊 GitHub İstatistikleri
+### 📊 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FurkanBoyvat&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="160px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FurkanBoyvat&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="160px" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=FurkanBoyvat&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="165px" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FurkanBoyvat&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="165px" />
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=FurkanBoyvat&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5" />
+</p>
 
 ---
 
-### 👨‍💻 Hakkımda
-
-Telegram botları, web uygulamaları ve AI entegrasyonları geliştiriyorum.
+### 🧠 About Me
+> 💼 Mechatronics Engineer passionate about software and automation.  
+> 🔭 I’m currently developing Telegram bots, web projects, and AI-integrated systems.  
+> 🌱 Always improving in **React, PHP, and Python**.  
+> ⚙️ Love combining **hardware and software** for real-world solutions.  
 
 ---
 
-📫 **İletişim:** [GitHub](https://github.com/FurkanBoyvat)
+### 📍 Profile Visitor Counter
+<p align="center">
+  <img src="https://profile-counter.glitch.me/FurkanBoyvat/count.svg" />
+</p>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:2b5876,100:4e4376&section=footer" />
+</div>
 
 </div>
