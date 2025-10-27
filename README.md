@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=3000&pause=500&color=00BFFF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Furkan+Boyvat.;Developer;%7C+Automation+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=3000&pause=500&color=00BFFF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Furkan+Boyvat.;Developer;Automation+Enthusiast" alt="Typing SVG" />
 </h1>
 
 <div align="center">
@@ -30,10 +30,9 @@
 ---
 
 ### 🧠 About Me
-> 💼 Mechatronics Engineer passionate about software and automation.  
-> 🔭 I’m currently developing Telegram bots, web projects, and AI-integrated systems.  
-> 🌱 Always improving in **React, PHP, and Python**.  
-> ⚙️ Love combining **hardware and software** for real-world solutions.  
+💡 Yazılım ve otomasyona odaklı bir geliştirici. 
+🔭 Telegram botları, web projeleri ve yapay zeka sistemleri geliştiriyorum. 
+🌱 React, PHP ve Python'da uzmanlığımı sürekli artırıyorum.  
 
 ---
 
