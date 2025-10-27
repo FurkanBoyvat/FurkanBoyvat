@@ -76,11 +76,3 @@
 <p align="center">
   <img src="https://api.visitorbadge.io/api/visitors?path=FurkanBoyvat&label=Profile%20Views&countColor=%2300BFFF&style=flat-square&labelStyle=upper" />
 </p>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:2b5876,100:4e4376&section=footer"/>
-</div>
-
-</div>
