@@ -63,11 +63,10 @@
 ---
 
 ### 🧠 About Me
-<p align="center">
-💻 Yazılım ve otomasyona odaklı bir geliştiriciyim.<br>
-🤖 Telegram botları, web ve mobil uygulamalar geliştiriyorum.<br>
-⚡ React, Flutter, PHP ve Python ile sürekli kendimi geliştiriyorum.
-</p>
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=3000&pause=500&color=00BFFF&center=true&vCenter=true&width=500&lines=💻+Yaz%C4%B1l%C4%B1m+ve+otomasyona+odakl%C4%B1+bir+geli%C5%9Ftiriciyim.;🤖+Telegram+botlar%C4%B1,+web+ve+mobil+uygulamalar+geli%C5%9Ftiriyorum.;⚡+React,+Flutter,+PHP+ve+Python+ile+s%C3%BCrekli+kendimi+geli%C5%9Ftiriyorum." />
+</h3>
+
 
 ---
 
