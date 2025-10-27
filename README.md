@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=3000&pause=500&color=00BFFF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Furkan+Boyvat.;Mechatronics+Engineer+%26+Developer;Full+Stack+%7C+AI+%7C+Automation+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=3000&pause=500&color=00BFFF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Furkan+Boyvat.;Engineer+%26+Developer;Full+Stack+%7C+AI+%7C+Automation+Enthusiast" alt="Typing SVG" />
 </h1>
 
 <div align="center">
