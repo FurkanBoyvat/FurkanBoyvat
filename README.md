@@ -1,35 +1,53 @@
-# Hi I am Furkan Boyvat.
-![profile count](https://komarev.com/ghpvc/?username=FurkanBoyvat&color=blue)&nbsp;
-[![GitHub Stats](https://img.shields.io/github/followers/FurkanBoyvat?label=follow&style=social)](https://github.com/Serkangrcndev)&nbsp;
+<!-- 🌟 Extreme & Professional GitHub Profile by Furkan Boyvat -->
 
-## Langauges I Know:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+<!-- Header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=3000&pause=500&color=00BFFF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Furkan+Boyvat.;Mechatronics+Engineer+%26+Developer;Full+Stack+%7C+AI+%7C+Automation+Enthusiast" alt="Typing SVG" />
+</h1>
 
+<div align="center">
+  
+![Profile Views](https://komarev.com/ghpvc/?username=FurkanBoyvat&color=0E75B6&style=flat-square)&nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/FurkanBoyvat?label=Follow&style=social)](https://github.com/FurkanBoyvat)
 
-<h3 align="left">:bar_chart: GitHub Stats:</h3>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=FurkanBoyvat&show_icons=true&theme=dark&locale=en&layout=compact" alt="FurkanBoyvat" /></p>
-<p align="left">
-   <img src="https://github-readme-stats.vercel.app/api?username=FurkanBoyvat&count_private=true&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px" alt="stats" />
-<img src="https://github-profile-trophy.vercel.app/?username=FurkanBoyvat&theme=radical" />
+### 💻 Languages & Tools I Use
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,java,html,css,cpp,python,php,figma,react,wordpress" />
 </p>
 
-<div align=center>
-  <h3><b>📍 Profilime Kaç Kişi Baktı</b></h3>
+---
+
+### 📊 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FurkanBoyvat&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="160px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FurkanBoyvat&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="160px" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=FurkanBoyvat&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5" />
+</p>
+
+---
+
+### 🧠 About Me
+> 💼 Mechatronics Engineer passionate about software and automation.  
+> 🔭 I’m currently developing Telegram bots, web projects, and AI-integrated systems.  
+> 🌱 Always improving in **React, PHP, and Python**.  
+> ⚙️ Love combining **hardware and software** for real-world solutions.  
+
+---
+
+### 📍 Profile Visitor Counter
+<p align="center">
+  <img src="https://profile-counter.glitch.me/FurkanBoyvat/count.svg" />
+</p>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:2b5876,100:4e4376&section=footer" />
 </div>
 
-<!-- retro visitor counter -->  
-<p align="center" >    
-  <img src="https://profile-counter.glitch.me/FurkanBoyvat/count.svg" />  
-</p>
-
-
+</div>
