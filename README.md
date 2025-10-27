@@ -1,7 +1,10 @@
 <!-- Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=3000&pause=500&color=00BFFF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Furkan+Boyvat.;Software+Developer" alt="Typing SVG" />
+  Furkan Boyvat
 </h1>
+<h3 align="center">
+  Software Developer | Backend & Frontend | Web & Mobile Applications
+</h3>
 
 <div align="center">
 
@@ -52,7 +55,6 @@
 </tr>
 </table>
 
-
 ---
 
 ### 📊 GitHub Stats
@@ -60,14 +62,13 @@
   <img src="https://github-readme-stats.vercel.app/api?username=FurkanBoyvat&hide=prs,issues,contribs&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF&icon_color=00BFFF&border_radius=12&rank_icon=github" height="130" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FurkanBoyvat&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF&border_radius=12" height="130" />
 </p>
+
 ---
 
 ### 🧠 About Me
-💻 Yazılım ve otomasyona odaklı bir geliştiriciyim.<br>
+💻 Yazılım ve otomasyona odaklı bir geliştirici.<br>
 🤖 Telegram botları, web ve mobil uygulamalar geliştiriyorum.<br>
-⚡ React, Flutter, PHP ve Python ile sürekli kendimi geliştiriyorum.
-
-
+⚡ React, Flutter, PHP ve Python ile kendimi sürekli geliştiriyorum.
 
 ---
 
@@ -78,6 +79,8 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:2b5876,100:4e4376&section=footer"/>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:2b5876,100:4e4376&section=footer"/>
+</div>
 
 </div>
