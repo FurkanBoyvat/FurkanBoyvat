@@ -41,10 +41,17 @@
 <img src="https://skillicons.dev/icons?i=react" width="40"/><br>React
 </td>
 <td align="center" width="80">
+<img src="https://skillicons.dev/icons?i=flutter" width="40"/><br>Flutter
+</td>
+<td align="center" width="80">
+<img src="https://skillicons.dev/icons?i=dart" width="40"/><br>Dart
+</td>
+<td align="center" width="80">
 <img src="https://skillicons.dev/icons?i=wordpress" width="40"/><br>WordPress
 </td>
 </tr>
 </table>
+
 
 ---
 
