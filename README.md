@@ -15,32 +15,20 @@
 
 ### 💻 Languages & Tools
 
-<div align="center">
-
-  <div style="
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    gap: 12px;
-  ">
-
-    <img src="https://skillicons.dev/icons?i=js" width="50" />
-    <img src="https://skillicons.dev/icons?i=java" width="50" />
-    <img src="https://skillicons.dev/icons?i=html" width="50" />
-    <img src="https://skillicons.dev/icons?i=css" width="50" />
-    <img src="https://skillicons.dev/icons?i=cpp" width="50" />
-    <img src="https://skillicons.dev/icons?i=python" width="50" />
-    <img src="https://skillicons.dev/icons?i=php" width="50" />
-    <img src="https://skillicons.dev/icons?i=figma" width="50" />
-    <img src="https://skillicons.dev/icons?i=react" width="50" />
-    <img src="https://skillicons.dev/icons?i=flutter" width="50" />
-    <img src="https://skillicons.dev/icons?i=dart" width="50" />
-    <img src="https://skillicons.dev/icons?i=wordpress" width="50" />
-
-  </div>
-
-</div>
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js" width="50" />
+  <img src="https://skillicons.dev/icons?i=java" width="50" />
+  <img src="https://skillicons.dev/icons?i=html" width="50" />
+  <img src="https://skillicons.dev/icons?i=css" width="50" />
+  <img src="https://skillicons.dev/icons?i=cpp" width="50" />
+  <img src="https://skillicons.dev/icons?i=python" width="50" />
+  <img src="https://skillicons.dev/icons?i=php" width="50" />
+  <img src="https://skillicons.dev/icons?i=figma" width="50" />
+  <img src="https://skillicons.dev/icons?i=react" width="50" />
+  <img src="https://skillicons.dev/icons?i=flutter" width="50" />
+  <img src="https://skillicons.dev/icons?i=dart" width="50" />
+  <img src="https://skillicons.dev/icons?i=wordpress" width="50" />
+</p>
 
 ---
 
