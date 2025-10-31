@@ -14,46 +14,33 @@
 ---
 
 ### 💻 Languages & Tools
-<table align="center">
-<tr>
-<td align="center" width="80">
-<img src="https://skillicons.dev/icons?i=js" width="40"/><br>JavaScript
-</td>
-<td align="center" width="80">
-<img src="https://skillicons.dev/icons?i=java" width="40"/><br>Java
-</td>
-<td align="center" width="80">
-<img src="https://skillicons.dev/icons?i=html" width="40"/><br>HTML
-</td>
-<td align="center" width="80">
-<img src="https://skillicons.dev/icons?i=css" width="40"/><br>CSS
-</td>
-<td align="center" width="80">
-<img src="https://skillicons.dev/icons?i=cpp" width="40"/><br>C++
-</td>
-<td align="center" width="80">
-<img src="https://skillicons.dev/icons?i=python" width="40"/><br>Python
-</td>
-<td align="center" width="80">
-<img src="https://skillicons.dev/icons?i=php" width="40"/><br>PHP
-</td>
-<td align="center" width="80">
-<img src="https://skillicons.dev/icons?i=figma" width="40"/><br>Figma
-</td>
-<td align="center" width="80">
-<img src="https://skillicons.dev/icons?i=react" width="40"/><br>React
-</td>
-<td align="center" width="80">
-<img src="https://skillicons.dev/icons?i=flutter" width="40"/><br>Flutter
-</td>
-<td align="center" width="80">
-<img src="https://skillicons.dev/icons?i=dart" width="40"/><br>Dart
-</td>
-<td align="center" width="80">
-<img src="https://skillicons.dev/icons?i=wordpress" width="40"/><br>WordPress
-</td>
-</tr>
-</table>
+
+<div align="center">
+
+  <div style="
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 12px;
+  ">
+
+    <img src="https://skillicons.dev/icons?i=js" width="50" />
+    <img src="https://skillicons.dev/icons?i=java" width="50" />
+    <img src="https://skillicons.dev/icons?i=html" width="50" />
+    <img src="https://skillicons.dev/icons?i=css" width="50" />
+    <img src="https://skillicons.dev/icons?i=cpp" width="50" />
+    <img src="https://skillicons.dev/icons?i=python" width="50" />
+    <img src="https://skillicons.dev/icons?i=php" width="50" />
+    <img src="https://skillicons.dev/icons?i=figma" width="50" />
+    <img src="https://skillicons.dev/icons?i=react" width="50" />
+    <img src="https://skillicons.dev/icons?i=flutter" width="50" />
+    <img src="https://skillicons.dev/icons?i=dart" width="50" />
+    <img src="https://skillicons.dev/icons?i=wordpress" width="50" />
+
+  </div>
+
+</div>
+
 
 ---
 
